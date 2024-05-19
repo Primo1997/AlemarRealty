@@ -1,0 +1,23 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "this is Finals ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Primo1997/AlemarRealty.git"
+  },
+  "author": "John Paul Arabia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Primo1997/AlemarRealty/issues"
+  },
+  "homepage": "https://github.com/Primo1997/AlemarRealty#readme"
+}
